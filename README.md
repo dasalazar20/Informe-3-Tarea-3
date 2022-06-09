@@ -26,55 +26,87 @@ Analizar los circuitos en serie y en paralelo, así como sus valores de voltaje,
 
 # 2. MARCO TEORICO
   
-   2.1 Circuitos en Serie
+   2.1 CIRCUITOS EN SERIE
       
-2.1.1 
+2.1.1 Resistores en serie
 
 ![]()
 
-2.1.2 
+2.1.2 Corriente en un circuito en serie
 
 ![]()
 
-2.1.3.	 
+2.1.3.	Resistencia total en serie 
 
 ![]()
 
-2.1.4.	
+2.1.4.	Aplicación de la ley de Ohm
 
 ![]()
 
-   2.2	
+2.1.5.	Fuentes de voltaje en serie
+
+![]() 
+
+2.1.6.	Ley del voltaje de Kirchhoff
+
+![]()
+
+2.1.7.	Divisores de voltaje
+
+![]()
+
+2.1.8.	Divisores de voltaje
+
+![]()
+
+2.1.9. Mediciones de voltaje	
+
+![]()
+
+2.1.10.	Localización de fallas
+
+![]()
+
+   2.2	CIRCUITOS EN PARALELO
    
-2.2.1 
+2.2.1 Resistores en paralelo
 
 ![]()
 
-2.2.2 
+2.2.2 Resistores en paralelo
 
 ![]()
 
-2.2.3  
+2.2.3 Ley de las corrientes de Kirchhoff
 
 ![]()
 
-2.2.4	
+2.2.4	Resistencia total en paralelo
 
 ![]()
 
-2.2.5
+2.2.5 Resistencia total en paralelo
 
 ![]()
 
-2.2.6 
+2.2.6 Fuentes de corriente en paralelo
 
 ![]()
 
-2.2.7.	
+2.2.7.	Divisores de corriente
 
 ![]()
 
-2.2.8.	
+2.2.8.	Potencia en circuitos en paralelo
+
+![]()
+
+2.2.9. Aplicaciones de circuitos en paralelo	
+
+![]()
+
+2.2.10.	Localización de fallas
 
 ![]()
 
