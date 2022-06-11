@@ -396,7 +396,7 @@ Al finalizar la redacion y la resolucion de los ejercicios del capitulo 5 (Circu
  
 CAPITULO 6
 
-Al finalizar la redacion y la resolucion de los ejercicios del capitulo 5 (Circuitos en paralelo) de "Principios de circuitos electricos" de Floyd, se logro calcular la corrietne y resitencia total que tiene un circuito en serie mediante las formulas correspondientes y a su vez se analizo la ley de corrientes de Kirchhoff, recordar que en los circuitos en paralelo la corriente se divide para todos los elementos que contiene el circuito, por otro lado el valor de voltaje se mantiene constante para cada elemento. se logro analizar como influye la ley de ohm en los circuitos en paralelo para identificar posibles fallas que se pueden presentar.
+Al finalizar la redacion y la resolucion de los ejercicios del capitulo 6 (Circuitos en paralelo) de "Principios de circuitos electricos" de Floyd, se logro calcular la corrietne y resitencia total que tiene un circuito en serie mediante las formulas correspondientes y a su vez se analizo la ley de corrientes de Kirchhoff, recordar que en los circuitos en paralelo la corriente se divide para todos los elementos que contiene el circuito, por otro lado el valor de voltaje se mantiene constante para cada elemento. se logro analizar como influye la ley de ohm en los circuitos en paralelo para identificar posibles fallas que se pueden presentar.
 
 # 6. BIBLIOGRAFIA
 
