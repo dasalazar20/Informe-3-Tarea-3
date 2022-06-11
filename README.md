@@ -392,7 +392,11 @@ R = R = La resistencia R1 esta abierta por ello tiene un valor de corriente de 5
 
 CAPITULO 5
 
+Al finalizar la redacion y la resolucion de los ejercicios del capitulo 5 (Circuitos en serie) de "Principios de circuitos electricos" de Floyd, se logro calcular la corriente y la resitencia total en un ciruito en serie y a su vez se analizo la ley de voltaje de Kirchhoff para identificar las caidas de voltaje y el voltaje total en un circuito en serie, en los circuitos en serie se observo que la corriente se mantiene constante en todo el circuito pero el voltaje se divide para cada elemento. Se analizo como aplicar la ley de ohm en los circuitos en serie para lograr identificar las posibles fallas que se puedan presentar.  
+ 
 CAPITULO 6
+
+Al finalizar la redacion y la resolucion de los ejercicios del capitulo 5 (Circuitos en paralelo) de "Principios de circuitos electricos" de Floyd, se logro calcular la corrietne y resitencia total que tiene un circuito en serie mediante las formulas correspondientes y a su vez se analizo la ley de corrientes de Kirchhoff, recordar que en los circuitos en paralelo la corriente se divide para todos los elementos que contiene el circuito, por otro lado el valor de voltaje se mantiene constante para cada elemento. se logro analizar como influye la ley de ohm en los circuitos en paralelo para identificar posibles fallas que se pueden presentar.
 
 # 6. BIBLIOGRAFIA
 
