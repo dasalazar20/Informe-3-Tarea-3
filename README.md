@@ -386,7 +386,7 @@ R = R = La resistencia R1 esta abierta por ello tiene un valor de corriente de 5
 
 # 4. VIDEO
 
-
+https://www.youtube.com/watch?v=Obl2klFz520
 
 # 5. CONCLUSIONES
 
